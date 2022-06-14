@@ -4,7 +4,13 @@
 ## Paper review folder
 
 논문에 대한 정리를 노션에서 주로 하지만, 나중에 소스 코드 관리를 위해서 간략한 설명을 추가했다.
-
+- LeNet
+- AlexNet
+- GoogLeNet
+- VGG
+- ResNet
+- SENet
+- EfficientNet
 
 -----
 ## 이미지 분석
