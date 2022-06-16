@@ -24,7 +24,7 @@
 * Histograms of Oriented Gradients for Human Detection
     * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1) / Code Practice
 * ImageNet Classification with Deep Convolutional Neural Networks(AlexNet)
-    * [Original Paper Link](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) / [Code Practice]
+    * [Original Paper Link](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/AlexNet/AlexNet_pr.ipynb)
 * Very Deep Convolution Networks for Large-scale image recognition(VGG)
     * [Original Paper Link](https://arxiv.org/pdf/1409.1556.pdf%20http://arxiv.org/abs/1409.1556.pdf) / [Code Practice]
 * Going deeper with convolutions(GoogLeNet)
