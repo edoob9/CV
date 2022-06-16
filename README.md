@@ -11,6 +11,10 @@
 - ResNet
 - SENet
 - EfficientNet
+- GAN
+- CycleGAN
+- MobileNet-v1.v2.v3
+- YOLO
 
 -----
 ## 이미지 분석
