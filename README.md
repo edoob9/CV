@@ -34,9 +34,9 @@
 * Deep Residual Learning for Image Recognition(ResNet)
     * [Original Paper Link](https://arxiv.org/pdf/1512.03385.pdf) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/ResNet/ResNet_50.ipynb)
 * EfficientNet, Squeeze-and-Excitation Networks(SENet)
-    * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1](https://arxiv.org/pdf/1709.01507v4.pdf) / Code Practice
+    * [Original Paper Link](https://arxiv.org/pdf/1709.01507v4.pdf) / Code Practice
 * Rethinking Model Scaling for Convolutional Neural Networks(EfficientNet)
-    * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1](https://arxiv.org/pdf/1905.11946.pdf) / Code Practice
+    * [Original Paper Link](https://arxiv.org/pdf/1905.11946.pdf) / Code Practice
 -----
 ImageNet(large-scale), MNIST, CIFAR dataset
 MNIST나 CIFAR는 idea에 대한 검증 목적으로 사용
