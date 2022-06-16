@@ -22,10 +22,17 @@
 
 #### CV 분야 논문
 * Histograms of Oriented Gradients for Human Detection
-    * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1)
+    * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1) / Code Practice
+* ImageNet Classification with Deep Convolutional Neural Networks(AlexNet)
+    * [Original Paper Link](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) / [Code Practice]
+* Very Deep Convolution Networks for Large-scale image recognition(VGG)
+    * [Original Paper Link](https://arxiv.org/pdf/1409.1556.pdf%20http://arxiv.org/abs/1409.1556.pdf) / [Code Practice]
+* Going deeper with convolutions(GoogLeNet)
+    * [Original Paper Link](https://arxiv.org/pdf/1409.4842.pdf) / [Code Practice]
+* Deep Residual Learning for Image Recognition(ResNet)
+    * [Original Paper Link](https://arxiv.org/pdf/1512.03385.pdf) / [Code Practice]
 
 -----
-## 이미지 분석
 ImageNet(large-scale), MNIST, CIFAR dataset
 MNIST나 CIFAR는 idea에 대한 검증 목적으로 사용
 - MNIST: 0부터 9까지의 '28 x 28 손글씨 사진'을 모은 데이터셋 (학습용: 60,000개 / 테스트용: 10,000)
