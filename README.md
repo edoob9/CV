@@ -3,23 +3,6 @@
 컴퓨터 비전 관련된 논문 리뷰 및 코드 구현
 * 최신 논문 위주로, 많은 인기를 끌고 있는 다양한 딥러닝 논문을 소개합니다.
 
-#### Paper review folder
-
-논문에 대한 정리를 노션에서 주로 하지만, 나중에 소스 코드 관리를 위해서 간략한 설명을 추가했다.
-- LeNet
-- AlexNet
-- GoogLeNet
-- VGG
-- ResNet
-- SENet
-- EfficientNet
-- GAN
-- CycleGAN
-- MobileNet-v1.v2.v3
-- YOLO
-
-#### Image Recognition (이미지 인식)
-
 #### CV 분야 논문
 * Histograms of Oriented Gradients for Human Detection(HOG)
     * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1) / Code Practice
@@ -37,6 +20,14 @@
     * [Original Paper Link](https://arxiv.org/pdf/1709.01507v4.pdf) / Code Practice
 * Rethinking Model Scaling for Convolutional Neural Networks(EfficientNet)
     * [Original Paper Link](https://arxiv.org/pdf/1905.11946.pdf) / Code Practice
+    
+- GAN
+- CycleGAN
+- MobileNet-v1.v2.v3
+- YOLO
+
+#### Image Recognition (이미지 인식)
+
 -----
 ImageNet(large-scale), MNIST, CIFAR dataset
 MNIST나 CIFAR는 idea에 대한 검증 목적으로 사용
