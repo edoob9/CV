@@ -21,17 +21,22 @@
 #### Image Recognition (이미지 인식)
 
 #### CV 분야 논문
-* Histograms of Oriented Gradients for Human Detection
+* Histograms of Oriented Gradients for Human Detection(HOG)
     * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1) / Code Practice
+* GradientBased Learning Applied to Document Recognition(LeNet)
+    * [Original Paper Link]([https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1](http://vision.stanford.edu/cs598_spring07/papers/Lecun98.pdf)) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/LeNet/LeNet.ipynb)
 * ImageNet Classification with Deep Convolutional Neural Networks(AlexNet)
     * [Original Paper Link](https://proceedings.neurips.cc/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/AlexNet/AlexNet_pr.ipynb)
 * Very Deep Convolution Networks for Large-scale image recognition(VGG)
-    * [Original Paper Link](https://arxiv.org/pdf/1409.1556.pdf%20http://arxiv.org/abs/1409.1556.pdf) / [Code Practice]
+    * [Original Paper Link](https://arxiv.org/pdf/1409.1556.pdf%20http://arxiv.org/abs/1409.1556.pdf) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/VGG/vgg.py)
 * Going deeper with convolutions(GoogLeNet)
-    * [Original Paper Link](https://arxiv.org/pdf/1409.4842.pdf) / [Code Practice]
+    * [Original Paper Link](https://arxiv.org/pdf/1409.4842.pdf) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/GoogLeNet/_GoogLeNet_pr.ipynb)
 * Deep Residual Learning for Image Recognition(ResNet)
-    * [Original Paper Link](https://arxiv.org/pdf/1512.03385.pdf) / [Code Practice]
-
+    * [Original Paper Link](https://arxiv.org/pdf/1512.03385.pdf) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/ResNet/ResNet_50.ipynb)
+* EfficientNet, Squeeze-and-Excitation Networks(SENet)
+    * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1](https://arxiv.org/pdf/1709.01507v4.pdf) / Code Practice
+* Rethinking Model Scaling for Convolutional Neural Networks(EfficientNet)
+    * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1](https://arxiv.org/pdf/1905.11946.pdf) / Code Practice
 -----
 ImageNet(large-scale), MNIST, CIFAR dataset
 MNIST나 CIFAR는 idea에 대한 검증 목적으로 사용
