@@ -31,4 +31,6 @@ overfitting을 극복하는 방법으로는 data augmentation, batch normalizati
 
 ### > CNN_cifar10.ipynb
 https://tutorials.pytorch.kr/beginner/basics/optimization_tutorial.html
+
 pytorch에서 제공한 tutorials에서 제공하는 설정을 이용해서 신경망 설계 및 최적화 코드를 반복하여 수행하는 train와 테스트 데이터로 모델의 성능을 측정하는 evaluate를 정의!
+GPU 설정을 '펭귄브로의 3분 딥러닝, 파이토치맛' 책의 내용을 학습해서 진행하였다.
