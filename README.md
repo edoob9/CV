@@ -22,7 +22,8 @@
 
 #### CV 분야 논문
 * Histograms of Oriented Gradients for Human Detection
-    * [Original Paper Link]([https://arxiv.org/abs/2005.12872](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1)) 
+    * [Original Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1)
+
 -----
 ## 이미지 분석
 ImageNet(large-scale), MNIST, CIFAR dataset
