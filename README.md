@@ -1,7 +1,9 @@
-# Computer Vision
-컴퓨터 비전 관련된 논문 리뷰 및 코드 구현
+### Computer Vision
 
-## Paper review folder
+컴퓨터 비전 관련된 논문 리뷰 및 코드 구현
+* 최신 논문 위주로, 많은 인기를 끌고 있는 다양한 딥러닝 논문을 소개합니다.
+
+#### Paper review folder
 
 논문에 대한 정리를 노션에서 주로 하지만, 나중에 소스 코드 관리를 위해서 간략한 설명을 추가했다.
 - LeNet
@@ -16,6 +18,11 @@
 - MobileNet-v1.v2.v3
 - YOLO
 
+#### Image Recognition (이미지 인식)
+
+#### CV 분야 논문
+* Histograms of Oriented Gradients for Human Detection
+    * [Original Paper Link]([https://arxiv.org/abs/2005.12872](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1467360&tag=1)) 
 -----
 ## 이미지 분석
 ImageNet(large-scale), MNIST, CIFAR dataset
