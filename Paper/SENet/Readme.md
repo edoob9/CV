@@ -1,6 +1,6 @@
 ### SENet이란?
 
-#### SENet은 GoogLeNet, ResNet에 이어 2017 ILSVRC에서 1등한 CNN 구조이다.
+#### <Strong>SENet은 GoogLeNet, ResNet에 이어 2017 ILSVRC에서 1등한 CNN 구조이다.</Strong>
 
 #### 논문을 쓰게된 목적은 다음과 같다.
 CNN interleaves a series of convolution layers, down-sampling, non-linear activation to produce image representation.→ spatial correlations.
