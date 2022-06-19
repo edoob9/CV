@@ -15,7 +15,7 @@ feature map size:[HxWxC] → (GAP) → [1x1xC]
 feature map size: [1x1xC] → (two)fully connected layers around the non-linearity → [1x1xC] 
 “중요한 채널에 대해서는 가중치를 높게 설정하고, 비교적 덜 중요한 채널에는 가중치를 낮춘다.”
 
-##### 실험결과에 대해 정리된 내용을 보자. 
+#### 실험결과에 대해 정리된 내용을 보자. 
 논문에서 SE block을 ResNet-50에 적용한 SE-ResNet-50 네트워크를 이용하여 계산 복잡도를 측정했다. 기존 ResNet-50이 ~3.86 GFLOPs가 필요했다면, SE-ResNet-50은 ~3.87 GFLOP이 필요하다. 하지만, SE-ResNet-50는 ResNet-50(7,48%)와 비교해서 설명하자면, validation error를 6.62% 기록했다. 이 결과는 ResNet-101(6.52%) 결과 만큼 근사한 수치를 가진다고 설명했다.
 
 FLOPS는 딥러닝에서의 FLOPS는 단위 시간이 아닌 절대적인 연산량(곱하기, 더하기 등)의 횟수를 지칭한다.
