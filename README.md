@@ -19,7 +19,7 @@
 * Squeeze-and-Excitation Networks(SENet)
     * [Original Paper Link](https://arxiv.org/pdf/1709.01507v4.pdf) / [contents](https://github.com/edenLee94/CV/blob/main/Paper/SENet/Readme.md) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/SENet/add_SE_module.py)
 * EfficientNet, Rethinking Model Scaling for Convolutional Neural Networks(EfficientNet)
-    * [Original Paper Link](https://arxiv.org/pdf/1905.11946.pdf) / contents / Code Practice
+    * [Original Paper Link](https://arxiv.org/pdf/1905.11946.pdf) / [contents](https://github.com/edenLee94/CV/blob/main/Paper/EfficientNet/Readme.md) / Code Practice
     
 - GAN
 - CycleGAN
