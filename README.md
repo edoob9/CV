@@ -17,7 +17,7 @@
 * Deep Residual Learning for Image Recognition(ResNet)
     * [Original Paper Link](https://arxiv.org/pdf/1512.03385.pdf) / [contents](https://github.com/edenLee94/CV/blob/main/Paper/ResNet/Readme.md) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/ResNet/ResNet_50.ipynb)
 * Squeeze-and-Excitation Networks(SENet)
-    * [Original Paper Link](https://arxiv.org/pdf/1709.01507v4.pdf) / contents / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/SENet/add_SE_module.py)
+    * [Original Paper Link](https://arxiv.org/pdf/1709.01507v4.pdf) / [contents](https://github.com/edenLee94/CV/blob/main/Paper/SENet/Readme.md) / [Code Practice](https://github.com/edenLee94/CV/blob/main/Paper/SENet/add_SE_module.py)
 * EfficientNet, Rethinking Model Scaling for Convolutional Neural Networks(EfficientNet)
     * [Original Paper Link](https://arxiv.org/pdf/1905.11946.pdf) / contents / Code Practice
     
