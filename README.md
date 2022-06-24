@@ -27,7 +27,15 @@
 - YOLO
 
 #### Image Recognition (이미지 인식)
-
+* 이미지와 질문이 주어졌을 때 답을 맞추는 Visual QnA
+    * Original Paper Link / contents / Code Practice
+* 이미지를 설명하는 문장을 만들어내는 Image Captioning
+    * [Original Paper Link](https://arxiv.org/pdf/1411.4555v2.pdf) / contents / Code Practice
+* Neural Image Caption Generation with visual Attention
+    * Original Paper Link / contents / Code Practice
+* Image Captioning with Semantic Attention
+    * [Original Paper Link](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/You_Image_Captioning_With_CVPR_2016_paper.pdf) / contents / Code Practice  
+ 
 -----
 ImageNet(large-scale), MNIST, CIFAR dataset
 MNIST나 CIFAR는 idea에 대한 검증 목적으로 사용
