@@ -27,7 +27,7 @@
 
 #### GAN에서 발전한 논문
 * Generative Adversarial Networks(GAN)
-    * [Original Paper Link](https://arxiv.org/pdf/1406.2661.pdf) / [contents] / [Code Practice]
+    * [Original Paper Link](https://arxiv.org/pdf/1406.2661.pdf) / [contents] / [Code Practice](https://github.com/edenLee94/CV/blob/main/GAN.ipynb)
 - CycleGAN
 - MobileNet-v1.v2.v3
 
