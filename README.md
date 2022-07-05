@@ -21,10 +21,15 @@
 * EfficientNet, Rethinking Model Scaling for Convolutional Neural Networks(EfficientNet)
     * [Original Paper Link](https://arxiv.org/pdf/1905.11946.pdf) / [contents](https://github.com/edenLee94/CV/blob/main/Paper/EfficientNet/Readme.md) / Code Practice
     
-- GAN
+#### object detection
+- R-CNN
+- YOLO
+
+#### GAN에서 발전한 논문
+* Generative Adversarial Networks(GAN)
+    * [Original Paper Link](https://arxiv.org/pdf/1406.2661.pdf) / [contents] / [Code Practice]
 - CycleGAN
 - MobileNet-v1.v2.v3
-- YOLO
 
 #### Image Recognition (이미지 인식)
 * 이미지와 질문이 주어졌을 때 답을 맞추는 Visual QnA
