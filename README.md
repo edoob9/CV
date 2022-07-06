@@ -28,7 +28,10 @@
 #### GAN에서 발전한 논문
 * Generative Adversarial Networks(GAN)
     * [Original Paper Link](https://arxiv.org/pdf/1406.2661.pdf) / [contents] / [Code Practice](https://github.com/edenLee94/CV/blob/main/GAN.ipynb)
-- CycleGAN
+* Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets(InfoGAN)
+    * [Original Paper Link](https://arxiv.org/pdf/1606.03657.pdf) / [contents] / [Code Practice]
+* Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks(CycleGAN)
+    * [Original Paper Link](https://arxiv.org/pdf/1606.03657.pdf) / [contents] / [Code Practice]
 - MobileNet-v1.v2.v3
 
 #### Image Recognition (이미지 인식)
