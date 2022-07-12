@@ -23,7 +23,7 @@
     
 #### object detection
 * R-CNN / Fast R-CNN / Faster R-CNN
-    * [Original Paper Link-basic model: R-CNN](https://arxiv.org/pdf/1311.2524.pdf) / [contents] (https://github.com/edenLee94/CV/blob/main/Paper/R%20CNN/read.md)
+    * [Original Paper Link-basic model: R-CNN](https://arxiv.org/pdf/1311.2524.pdf) / [contents](https://github.com/edenLee94/CV/blob/main/Paper/R%20CNN/read.md)
 - YOLO
 
 #### GAN에서 발전한 논문
