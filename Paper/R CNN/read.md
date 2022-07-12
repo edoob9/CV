@@ -1,9 +1,9 @@
-## 2 stage detection
+# 2 stage detection
 
 Many stage라고 적혀있는 방법에서는 object가 있을 법한 위치의 후보(proposals) 들을 뽑아내는 단계, 이후 실제로 object가 있는지를 Classification과 정확한 바운딩 박스를 구하는 Regression을 수행하는 단계가 분리되어 있습니다. 대표적으로는 Faster-RCNN이다.
 [2 stage detection lecture - Andrew Ng]
 
-### <R-CNN>
+## < R-CNN >
 R-CNN에서 image가 먼저 들어와서 region proposal을 진행한다. 
 
 AlexNet을 backbone으로 feature extractor 역할을 시킨다. 그러면 AlexNet의 특징으로 227*227 정사각형 size(fixed image size)로 ****Image Warping 진행한다.(압축된 상태로 들어가면, 이미지 소실을 발생시킬 수 있다.) 그리고 R-CNN에서는 classification을 위해서 svm(특히, `binary svm`)을 사용한다.
@@ -31,7 +31,7 @@ dx, dy, dw, dh에 대한 학습을 어떻게 진행할 것인가?
         - CNN features not updated in response to SVMs and regressors
         
 
-### <Fast R-CNN>
+## < Fast R-CNN >
 
 R-CNN의 경우 region proposal을 selective search로 수행한 뒤 약 2,000개에 달하는 후보 이미지 각각에 대해서 convolution 연산을 수행 → 하나의 이미지에서 feature을 반복해서 추출하기 때문에 비효율적이고 느리다는 단점이다. 그래서 Fast R-CNN에서는 후보 영역의 classification과 Bounding Box regression을 위한 feature을 한 번에 추출하여 사용한다. 그리고 R-CNN과의 차이점은  이미지를 Sliding Window 방식으로 잘라내는 것이 아니라 해당 부분을 CNN을 거친 Feature Map에 투영해, Feature Map을 잘라낸다는 것이다.
   
@@ -51,7 +51,7 @@ RCNN에서 warping이 꼭 필요했지만, Fast R-CNN은 고정된 vector값으�
 - (12x8x3) → (3x2 grid) // grid의 크기만 달라질 뿐이다.
   
   
-### <Faster R-CNN>
+## < Faster R-CNN >
 
 selective search를 CPU에서만 작동하니까 느린 거 맞지않나요? → region proposal를 위한 clustring 단계에서 느리다.(Fast R-CNN은 반복되는 CNN 연산을 크게 줄여냈지만 region proposal 알고리즘이 병목) ⇒ GPU 환경에서 이용하려면 어떤 행동을 해야할까?
 
